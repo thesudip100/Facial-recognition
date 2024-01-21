@@ -3,7 +3,7 @@
 <ul>
   <li> Download the notebook</li>
   <li> Add the image on which face detection is to be done</li>
-  <li>Now,, change the path of the image inside the 'imagePath' variable</li>
+  <li>Now, change the path of the image inside the 'imagePath' variable</li>
   <li> And you are done!!!</li>
 </ul>
 
